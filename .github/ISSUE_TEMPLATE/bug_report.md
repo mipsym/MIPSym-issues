@@ -20,7 +20,7 @@ Steps to reproduce the behavior:
 **Assembly Source Code that Causes the Problem**
 If your issue is related to assembly code that doesn't assemble properly, 
 or that doesn't run properly, and you are sure that it should, write it here. 
-Please reduce your code sample to the smallest program you can that still 
+Please reduce your code sample to the smallest possible program that still 
 produces the same bug. 
 
 Please write your code here between the two rows of backticks:
@@ -39,7 +39,7 @@ If applicable, add screenshots to help explain your problem.
 **Platform(s) affected (type an 'X' between the square brackets):**
  - [ ] Windows
  - [ ] Mac
- - [ ] Linux
+ - [ ] Linux (please indicate which distribution and version)
 
 **Program(s) affected (type an 'X' between the square brackets):**
  - [ ] MIPSym
@@ -47,7 +47,7 @@ If applicable, add screenshots to help explain your problem.
  - [ ] MIPSym Assembler
 
 **MIPSym Version Affected:**
-e.g. 2.05.1501, etc. 
+e.g. 2.05.1519, etc. 
 If you are not using the most recent version of MIPSym for your platform, 
 please try the newest version. Your issue may have already been fixed.
  
