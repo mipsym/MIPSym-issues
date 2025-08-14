@@ -7,7 +7,7 @@ It is under development as a university research project at
 
 Here, you can report problems with the MIPSym graphical IDE, MIPSymCLI, and the MIPSym Assembler.
 
-You can learn more about **MIPSym** at www.MIPSym.com.
+You can learn more about **MIPSym** at MIPSym.com.
 
 ## Reporting issues
 
